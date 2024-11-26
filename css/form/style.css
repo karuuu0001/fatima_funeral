@@ -1,0 +1,74 @@
+/**
+ * User Login System
+ * @author Resalat Haque
+ * @link http://www.w3bees.com
+ */
+ 
+a{
+	color: #333;
+	text-decoration: none
+}
+h1.a{
+	color:#78bbe6;
+	font-weight: 100px;
+	font-size: 35px;
+}
+body{
+	background: #E7EDEE;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	margin-bottom: 100px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+	width: 400px;
+	margin: 10px auto;
+	padding: 20px 15px;
+	background: white;
+	border: 2px solid #DBDBDB;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	text-align: center;
+	overflow: hidden;
+}
+.status{
+	padding: 5px;
+	color: white;
+	margin: 8px 0;
+}
+.status-success{
+	background: #0078E7;
+}
+.status-error{
+	background: #F47063;
+}
+
+#form1 input{
+	padding: 20px;
+	width: 80%;
+	border-radius: 5px;
+	text-align: center;
+	margin-left: 5px;
+	float: left;
+}
+
+span img{
+	width: 40px;
+	height: 40px;
+	float: left;
+
+}
+.clear{
+	clear: both;
+}
+span img.pw{
+	width: 40px;
+	height: 40px;
+	float: left;
+
+}
+#but{
+	margin: 0 auto;
+	width: 50%;
+	height: 60px;
+}
