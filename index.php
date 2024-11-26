@@ -100,7 +100,7 @@
             
             <img src="img/fam.jpg" width="613" height="193" alt="" />
 
-            <p class="par">Thank You for visiting our Funeral Home website. We hope that you can find comfort and compassion  during your time of need
+            <p class="par">Thank You for visiting our Pulmax Funeral Home website. We hope that you can find comfort and compassion  during your time of need
   .Here at our Funeral Home, we have been serving for over 10 years. We are locally opened and operated and take great pride and the service we provide to families. </p>
   <p class="par">At our Funeral Home, we believe in fair and honest pricing. We display our complete price and line of  merchandise on our website . When determining the total cost of a funeral, it is important  to get all 
     the information you need. We welcome inquiries online ,by phone or in person. We will always give you an honest quote for the service you desire.</p></div>
